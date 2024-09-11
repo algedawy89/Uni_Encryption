@@ -1,0 +1,14 @@
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\bin\Debug\Playfair.exe.config
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\bin\Debug\Playfair.exe
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\bin\Debug\Playfair.pdb
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\obj\Debug\Playfair.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\obj\Debug\Playfair.Form1.resources
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\obj\Debug\Playfair.Properties.Resources.resources
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\obj\Debug\Playfair.csproj.GenerateResource.cache
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\obj\Debug\Playfair.csproj.CoreCompileInputs.cache
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\obj\Debug\Playfair.exe
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\obj\Debug\Playfair.pdb
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\bin\Debug\itextsharp.dll
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\obj\Debug\Playfair.EncFile.resources
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\obj\Debug\Playfair.csproj.CopyComplete
+C:\Users\jeddawi\Desktop\pdf studying\Lvl.4\Encryption\LabWork\Lab_2\code\Playfair\Playfair\obj\Debug\Playfair.csproj.AssemblyReference.cache
